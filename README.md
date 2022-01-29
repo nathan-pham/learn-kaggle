@@ -10,3 +10,4 @@ All of the courses and tutorials available on Kaggle
 
 * [Exercise: Create, Read, Write](https://www.kaggle.com/phamn23/exercise-creating-reading-and-writing)
 * [Exercise: Index, Select, Assign](https://www.kaggle.com/phamn23/exercise-indexing-selecting-assigning)
+* [Exercise: Summary Functions and Maps](https://www.kaggle.com/phamn23/exercise-summary-functions-and-maps)
